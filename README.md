@@ -46,7 +46,7 @@ Game-Analytics-Sportradar/
 │
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
