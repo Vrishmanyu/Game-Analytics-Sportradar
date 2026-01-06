@@ -1,5 +1,0 @@
-print("SportRadar API data fetched and saved as raw JSON files")
-print("Files used:")
-print("competitions_raw.json")
-print("complexes_raw.json")
-print("doubles_rankings_raw.json")
