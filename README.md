@@ -20,23 +20,30 @@ The project is developed as part of an academic **Major Project** and showcases 
 ---
 
 ## 📁 Project Structure
+```text
 Game-Analytics-Sportradar/
+│
 ├── api_scripts/
-│ ├── fetch_api_data.py
-│ ├── load_data.py
-│ ├── load_complexes_venues.py
-│ └── load_doubles_rankings.py
+│   ├── fetch_api_data.py
+│   ├── load_data.py
+│   ├── load_complexes_venues.py
+│   └── load_doubles_rankings.py
+│
 ├── data/
-│ ├── competitions_raw.json
-│ ├── complexes_raw.json
-│ └── doubles_rankings_raw.json
+│   ├── competitions_raw.json
+│   ├── complexes_raw.json
+│   └── doubles_rankings_raw.json
+│
 ├── database/
-│ ├── schema.sql
-│ └── analysis_queries.sql
+│   ├── schema.sql
+│   └── analysis_queries.sql
+│
 ├── docs/
-│ └── Tennis Analytics Dashboard.pdf
+│   └── Tennis Analytics Dashboard.pdf
+│
 ├── streamlit_app/
-│ └── app.py
+│   └── app.py
+│
 ├── requirements.txt
 └── README.md
 
